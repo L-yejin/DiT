@@ -31,6 +31,8 @@ GitHub| https://github.com/facebookresearch/detectron2
 - dit/object_detection/DATASETS 폴더에 사용할 데이터 셋 추가
 - dit/object_detection/train_net.py에 데이터 셋의 이미지와 json 파일의 경로를 사용하여 데이터 셋 추가 ex. line90,91  
 
+#### article-ie 폴더 속 ```.env```파일 필요
+
 ## Training
 ```python dit/object_detection/train_net.py```  
 
